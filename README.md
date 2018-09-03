@@ -1,2 +1,2 @@
 # Comparice
-Compare prices of certain items
+Compare prices of items
